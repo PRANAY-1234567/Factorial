@@ -94,7 +94,6 @@ Take user input dynamically
 Handle large numbers
 
 👨‍💻 Author
-
 Pranay Jadhao
 
 <img width="836" height="611" alt="image" src="https://github.com/user-attachments/assets/83330dc7-dbe0-4d57-92de-4887070981ca" />
