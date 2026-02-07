@@ -1,4 +1,5 @@
 🔢 Factorial of a Number in JavaScript
+
 📌 Description
 
 This program calculates the factorial of a given number using an iterative (loop-based) approach in JavaScript.
