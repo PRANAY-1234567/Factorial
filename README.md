@@ -3,7 +3,6 @@
 📌 Description
 
 This program calculates the factorial of a given number using an iterative (loop-based) approach in JavaScript.
-
 The factorial of a number n is the product of all positive integers from 1 to n.
 
 🧩 Problem Statement
