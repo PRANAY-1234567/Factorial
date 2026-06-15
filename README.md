@@ -83,11 +83,8 @@ Mathematical computations
 🚀 Possible Improvements
 
 Add input validation (negative numbers)
-
 Recursive factorial version
-
 Take user input dynamically
-
 Handle large numbers
 
 👨‍💻 Author
