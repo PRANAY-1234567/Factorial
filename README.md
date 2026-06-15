@@ -66,11 +66,8 @@ The final value of fact is returned
 🛠 Concepts Used
 
 JavaScript Functions
-
 for loop
-
 Variables
-
 Mathematical logic
 
 🎯 Use Cases
