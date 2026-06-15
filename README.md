@@ -76,11 +76,8 @@ Mathematical logic
 🎯 Use Cases
 
 Beginner JavaScript practice
-
 Interview preparation
-
 Learning loops and functions
-
 Mathematical computations
 
 🚀 Possible Improvements
