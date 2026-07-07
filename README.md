@@ -51,13 +51,9 @@ console.log(factorial(5));
 🧠 Explanation
 
 The function factorial() takes a number n as input
-
 A variable fact is initialized to 1
-
 A for loop runs from 1 to n
-
 Each value is multiplied with fact
-
 The final value of fact is returned
 
 🖨 Example Output
